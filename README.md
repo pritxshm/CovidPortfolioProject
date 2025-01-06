@@ -1,4 +1,4 @@
-Utilized SQL to analyze real-world Covid-19 data sourced from Our World in Data.
+Utilized SQL to analyze real-world Covid-19 data sourced from OurWorldinData.org/covid-deaths
 Demonstrated expertise in:
 1)Joins, Common Table Expressions (CTEs), and Temporary Tables.
 2)Window Functions, Aggregate Functions, and Data Type Conversions.
